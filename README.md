@@ -1,30 +1,22 @@
-# GitHub-Tutorial
+*This file serves as a copy-paste template for a README.md.*
 
-# *MEASURE*
+*Make edits below the line to fit your own project.*
 
-## Date Created
-*DATE*
+---------
 
-## Decision History
-*ABCDEFGHIJKLMNOPQSRTUVWXYZ*
+## Project title
+Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
 
-## Source Variables
-1. `ABCDEFGHJIKLMNOPQRSTUVWXYZ`
-1. `ABCDEFGHIJKLNMOPQRSTUVWXYZ`
+## Features
+What makes your project stand out?
 
-## Coding Language Available
-| Derived Variable Name | SAS  | STATA  | R  |
-| :---:   | :-: | :-: | :-: |
-| ADL | X |  |  |
-| IADL | X |  |  |
-| ADL_IADL | X |  |  |
-| Version (Date) | V1 (07/2019) | | | 
+## Credits
+Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
 
-## Output Variables
-1. `A1234567890`
-1. `B1234567890`
+## Anything else that seems useful
+
 
 ## Created by
-*NAME*
+* [@jyixzhou](https://github.com/jyixzhou)
 
 *E-MAIL/PHONE*
