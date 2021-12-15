@@ -1,6 +1,6 @@
-*This file serves as a copy-paste template for a README.md.*
+*This file serves as a template for a README.md for a project.*
 
-*Make edits below the line to fit your own project.*
+*Copy-paste below the line and make edits to fit your own project.*
 
 ---------
 
