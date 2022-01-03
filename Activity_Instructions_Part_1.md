@@ -25,4 +25,11 @@ Slides and resources can be found in the Google drive folder [here](https://driv
 5. Upload a file
     - You can use the toy SAS script in this GitHub-Tutorial repo or the various toy scripts in the Google drive folder. 
 
+### Preparations before next class
+
+- Git Installation on MacOS and Windows:  
+    https://happygitwithr.com/install-git.html 
+
+- GitKraken Installation:  
+    https://www.gitkraken.com
 
