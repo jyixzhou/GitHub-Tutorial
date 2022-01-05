@@ -10,8 +10,8 @@ Project description: A little info about your project and/ or overview that expl
 ## Features
 What makes your project stand out?
 
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
+## Acknowledgments
+Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
 
 ## Anything else that seems useful
 
