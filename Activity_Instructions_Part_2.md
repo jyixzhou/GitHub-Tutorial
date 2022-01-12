@@ -8,10 +8,6 @@ https://happygitwithr.com/install-git.html
 GitKraken Installation:  
 https://www.gitkraken.com
 
-*Optional*: RStudio connection to GitHub  
-https://happygitwithr.com/ssh-keys.html   
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh
-
 ### Slides: GitKraken Overview for Workflow
 - Git, GitHub, Git client
 - Set up connection between GitKraken and GitHub
@@ -31,25 +27,26 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 #### Various repo actions
 1. Clone an existing repo from GitHub 
     - `Clone a repo` - `Clone` -  choose `Clone with URL` if you don’t own the repo *or* choose `GitHub.com` if you are the owner or a collaborator of the repo 
-    - As an example, you can try and clone the GitHub-Tutorial repo in KHANDLE organization: https://github.com/KHANDLE-STAR-LA90/GitHub-Tutorial
-Let me know if you don’t have access to this repo
+    - You should clone the repo that you created for this class from the last tutorial. Find the URL on the repo page on GitHub by clicking `Code`. 
     
 2. Intialize a new repo and push to GitHub
     - `Init` - `GitHub.com` - Fill in the repo name and local path - `Create Repository` 
+    - We are not doing this today, but feel free to try this yourself! 
 
 #### Branching
 1. Create a new branch called “develop”
     - Click `Branch` and enter the new branch name “develop”; this new branch will contain everything from the main branch
 
 2. Make new edits in develop, and merge into main (demo later)
-    - Right click the main branch icon - `Merge develop into main` (note the direction)
+    - Right click either the main branch icon or the develop branch icon - look for `Merge develop into main` (note the direction)
 
 #### Make edits; stage, commit, and push
-1. Create and edit a code file as an example within GitKraken
-    - The command palette is very useful! Allows you to search for commands and actions, e.g. create files, etc. 
+1. Create and edit a code file using a software of your choice; stage-commit-push
+    - I will use R. You can use any other software, e.g. SAS and STATA. 
 
-2. Create and edit a `.gitignore` file
-    - Command palette - `Create File` - Type “.gitignore”
+2. Create and edit a `.gitignore` file directly in GitKraken
+    - Command palette - `Create File` - Type “.gitignore”  
+      The command palette is very useful! Allows you to search for commands and actions, e.g. create files, etc. 
     - List the name of the files that you want Git to ignore. (You can leave it empty for now.)
     - Click the blue dot on the top right corner of the editing window and save the change. 
     - Exercise: Download the toy_data.csv from Google Drive folder and put it in your repository folder on your own machine. Then add this file name to .gitignore. You will notice that GitKraken does not display this file in its directory. Stage-commit-push.
@@ -75,31 +72,32 @@ Let me know if you don’t have access to this repo
 
 **Part 2** Use Git on RStudio
 
+#### Preparations: RStudio connection to GitHub  
+- [Set up Personal Access Token (PAT)](https://happygitwithr.com/https-pat.html)   
+- [Set up Keys for SSH](https://happygitwithr.com/ssh-keys.html)  
+- [Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 #### Start a new repo  
 
-1. Doable on RStudio, need to specify it’s a Git repo
-    - `File` - `New Project` - `New Directory` - `New Project` - Enter directory name and set the location - Check the box `Create a git repository` - `Create Project`
-
-2. Open on GitKraken and complete initial commit
-    - `Open a repository` - Navigate to the project folder and open - `Initialize`
-
-3. Push to set up remote on GitHub
+- It is not easy to set up a GitHub repo on RStudio. We usually set up the repo on GitHub website and clone it. 
 
 #### Clone a repo from GitHub 
 
-- `File` - `New Project` - `Version Control` - `Git` - Input URL and set the location - `Create Project`
+- `File` - `New Project` - `Version Control` - `Git` - Input URL and set the location - click `Create Project`
 
 #### Branching 
 
-- Click the branch icon - Enter new branch name - Create
+- Click the branch icon - Enter new branch name - `Create`
 - Check into different branches by clicking on the name of the branch  
+- Merging is not intuitive on RStudio; need to go to GitHub website and start a pull request  
 
 #### Make edits; stage-commit-push 
 1. Save the edits
 
-2. Navigate to the Git panel - Check the staged box - `Commit` - Write commit message - Click `Commit` and `Push` 
+2. Navigate to the Git panel - Check the staged box - `Commit` - Write commit message - Click `Commit` and then `Push` 
 
 3. Pull from remote to get updated repo (e.g. if someone else pushed their updates) 
 
 4. Revert (don’t do this routinely)
+
+
