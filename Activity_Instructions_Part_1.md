@@ -7,15 +7,15 @@ Slides and resources can be found in the Google drive folder [here](https://driv
 ### Activities
 
 1. Create a new repository under your own account
-    - `Your Repositories` - `New`
-    - Give a name (e.g. EPIDEM207-2022-winter) and a brief description of the repository
+    - Click your profile picture on the top right - `Your Repositories` - `New`
+    - Give a name (e.g. EPIDEM207-2023-winter) and a brief description of the repository
     - Set to *private* and check the box to add a README file
 
 2. Add Dr Mayeda as a collaborator of your repo
     - Go to your new repo - `Settings` - `Manage access`
     - `Add people` - search for [@ermayeda](https://github.com/ermayeda)
 
-*For the following activies, refer to the directions on the slides.*
+*For the following activies, refer to the detailed instructions on the slides.*
 
 3. Update the README.md file using the [template](https://github.com/jyixzhou/GitHub-Tutorial/blob/main/README.md)
 
@@ -25,8 +25,7 @@ Slides and resources can be found in the Google drive folder [here](https://driv
 5. Upload a file
     - You can use the toy scripts in this GitHub-Tutorial repo or download from the Google drive folder. 
 
-### Preparations before next class
-Make sure to complete these installations for a smoother experience next class! 
+### Preparations for version control workflow, if interested
 
 - Git Installation on MacOS and Windows:  
     https://happygitwithr.com/install-git.html 
