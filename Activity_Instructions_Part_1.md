@@ -1,5 +1,5 @@
 ## GitHub Tutorial on Basic Functionalities 
-Slides and resources can be found in the Google drive folder [here](https://drive.google.com/drive/folders/1AzbOqtJWD5G6TCD9i60y0HzlQxl_ttwY?usp=sharing).
+Slides and other resources can be found in the Google drive folder [here](https://drive.google.com/drive/folders/1AzbOqtJWD5G6TCD9i60y0HzlQxl_ttwY?usp=sharing).
 
 ### Preparations 
 - Open a GitHub account using your UCLA email address and apply for [Student Developer Pack](https://education.github.com/benefits?type=student)
@@ -7,7 +7,7 @@ Slides and resources can be found in the Google drive folder [here](https://driv
 ### Activities
 
 1. Create a new repository under your own account
-    - Click your profile picture on the top right - `Your Repositories` - `New`
+    - Look for a green buttom for `New` repository
     - Give a name (e.g. EPIDEM207-2023-winter) and a brief description of the repository
     - Set to *private* and check the box to add a README file
 
