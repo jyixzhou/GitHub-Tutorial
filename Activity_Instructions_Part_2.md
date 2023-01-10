@@ -1,5 +1,5 @@
 ## GitHub Tutorial on Version Control
-A list of instructions, demonstrations and activities 
+A list of instructions, demonstrations and activities on incorporating version control into your reproducible workflow, for those interested
 
 ### Preparations 
 Git Installation on MacOS and Windows:  
@@ -68,8 +68,6 @@ https://www.gitkraken.com
 
 ---
 
-*OPTIONAL: NOT COVERED IN CLASS*
-
 **Part 2** Use Git on RStudio
 
 #### Preparations: RStudio connection to GitHub  
@@ -98,6 +96,6 @@ https://www.gitkraken.com
 
 3. Pull from remote to get updated repo (e.g. if someone else pushed their updates) 
 
-4. Revert (don’t do this routinely)
+4. Revert (Don’t do this routinely!)
 
 
