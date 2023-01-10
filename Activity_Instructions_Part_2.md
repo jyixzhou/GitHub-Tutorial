@@ -21,13 +21,14 @@ https://www.gitkraken.com
 **Part 1** Use Git on GitKraken
 
 #### Set up connection to GitHub
-- Sign in with GitHub account
-- `Settings` - `Integrations` - `GitHub` - `Generate SSH key and add to GitHub`
+- Open GitKraken
+- Sign in with GitHub account when prompted
+- Go to `Settings` - `Integrations` - `GitHub` - `Generate SSH key and add to GitHub`
 
 #### Various repo actions
 1. Clone an existing repo from GitHub 
     - `Clone a repo` - `Clone` -  choose `Clone with URL` if you don’t own the repo *or* choose `GitHub.com` if you are the owner or a collaborator of the repo 
-    - You should clone the repo that you created for this class from the last tutorial. Find the URL on the repo page on GitHub by clicking `Code`. 
+    - You can clone the repo that you created for this class from the last tutorial. You can do this with the URL on the repo page on GitHub by clicking `Code`. Or if you choose `GitHub.com`, you will see your repo in the dropdown menu. 
     
 2. Intialize a new repo and push to GitHub
     - `Init` - `GitHub.com` - Fill in the repo name and local path - `Create Repository` 
