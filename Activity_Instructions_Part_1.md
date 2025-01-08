@@ -8,14 +8,14 @@ Slides and other resources can be found in the Google drive folder [here](https:
 
 1. Create a new repository under your own account
     - Look for a green buttom for `New` repository
-    - Give a name (e.g. EPIDEM207-2023-winter) and a brief description of the repository
+    - Give a name (e.g. EPIDEM207-2025-winter) and a brief description of the repository
     - Set to *private* and check the box to add a README file
 
 2. Add Dr Mayeda as a collaborator of your repo
     - Go to your new repo - `Settings` - `Manage access`
     - `Add people` - search for [@ermayeda](https://github.com/ermayeda)
 
-*For the following activies, refer to the detailed instructions on the slides.*
+*For the following activities, refer to the detailed instructions on the slides.*
 
 3. Update the README.md file using the [template](https://github.com/jyixzhou/GitHub-Tutorial/blob/main/README.md)
 
